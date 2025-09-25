@@ -1,0 +1,1 @@
+# Regulation-and-feedback-control-system-for-a-Synchronous-generator-with-varying-load-in-Simulink.
